@@ -1,0 +1,30 @@
+{
+  "direction": "ltr",
+  "common": {
+    "cancel": "Cancel",
+    "search": "Search...",
+    "searchPlaceholder": "What are you looking for ?",
+    "open": "Open",
+    "delete": "Delete",
+    "edit": "Edit",
+    "change": "Change",
+    "showMore": "Show more",
+    "on": "on",
+    "at": "at",
+    "to": "to"
+  },
+  "loginPage": {
+    "welcomeBack": "Welcome Back !",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password ?",
+    "wrongCredentials": "Wrong credentials or locked account.",
+    "signIn": "Sign In",
+    "signInWithGoogle": "With Google",
+    "signInWithMicrosoft": "With Microsoft",
+    "or": "Or"
+  },
+  "toolbar": {
+    "logout": "Log Out"
+  }
+}

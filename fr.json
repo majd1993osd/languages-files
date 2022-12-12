@@ -1,0 +1,30 @@
+{
+  "direction": "ltr",
+  "common": {
+    "cancel": "Annuler",
+    "search": "Chercher...",
+    "searchPlaceholder": "Que cherchez-vous ?",
+    "open": "Ouverte",
+    "delete": "Supprimer",
+    "edit": "Éditer",
+    "change": "Modifier",
+    "showMore": "Montre plus",
+    "on": "au",
+    "at": "à",
+    "to": "à"
+  },
+  "loginPage": {
+    "welcomeBack": "Content de te revoir !",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "wrongCredentials": "Identifiants erronés ou compte verrouillé.",
+    "signIn": "Se connecter",
+    "signInWithGoogle": "Avec Google",
+    "signInWithMicrosoft": "Avec Microsoft",
+    "or": "Ou"
+  },
+  "toolbar": {
+    "logout": "Se déconnecter"
+  }
+}

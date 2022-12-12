@@ -1,0 +1,30 @@
+{
+  "direction": "rtl",
+  "common": {
+    "cancel": "إلغاء",
+    "search": "بحث...",
+    "searchPlaceholder": "عن ماذا تبحث ؟",
+    "open": "فتح",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "change": "تغيير",
+    "showMore": "أظهر المزيد",
+    "on": "في",
+    "at": "الساعة",
+    "to": "إلى"
+  },
+  "loginPage": {
+    "welcomeBack": "مرحبًا بعودتك !",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة السر ؟",
+    "wrongCredentials": "بيانات اعتماد خاطئة أو حساب مغلق.",
+    "signIn": "تسجيل الدخول",
+    "signInWithGoogle": "عبر جوجل",
+    "signInWithMicrosoft": "عبر مايكروسوفت",
+    "or": "أو"
+  },
+  "toolbar": {
+    "logout": "تسجيل خروج"
+  }
+}
